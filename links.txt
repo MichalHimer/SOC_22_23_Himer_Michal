@@ -1,0 +1,9 @@
+Odkaz pro stažení Android Studia: https://developer.android.com/studio
+
+Odkaz pro stažení aplikace DIVA: https://github.com/0xArab/diva-apk-file
+
+Odkaz pro stažení serveru nástroje Frida: https://github.com/frida/frida/releases
+
+Odkaz na repozitář aplikace RootDetector využívané při demonstraci 	zranitelnosti absence binární protekce: https://www.github.com/MichalHimer/RootDetector
+
+Odkaz na repozitář aplikace DataGuard využívané při návrhu hry: https://github.com/MichalHimer/DataGuard
